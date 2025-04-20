@@ -19,6 +19,7 @@ This project enables image uploads, storage, and retrieval using AWS S3. It cons
 
 - **React.js**: UI components and routing
 - **React Router**: For client-side navigation
+- **Tailwind CSS**: CSS Framework
 
 ### **Server**
 
